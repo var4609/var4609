@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[![var4609's stats](https://github-readme-stats.vercel.app/api?username=var4609)](https://github.com/var4609/github-readme-stats)
+<!-- [![var4609's stats](https://github-readme-stats.vercel.app/api?username=var4609)](https://github.com/var4609/github-readme-stats) -->
 <!--
 **var4609/var4609** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
